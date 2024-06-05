@@ -1,3 +1,5 @@
+package Models;
+
 import java.util.Objects;
 
 public class Cliente {
@@ -54,6 +56,6 @@ public class Cliente {
 
     @Override
     public String toString() {
-        return "Cliente de nome: " + nome + ", tem o de endereco: " + endereco + ", de email " + email;
+        return "Models.Cliente de nome: " + nome + ", tem o de endereco: " + endereco + ", de email " + email;
     }
 }

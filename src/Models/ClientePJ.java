@@ -1,4 +1,6 @@
-public class ClientePJ extends Cliente{
+package Models;
+
+public class ClientePJ extends Cliente {
 
     private String cnpj;
 

@@ -1,4 +1,6 @@
-public class ClientePF extends  Cliente{
+package Models;
+
+public class ClientePF extends Cliente {
 
     private String cpf;
 
